@@ -101,9 +101,9 @@ const productsData = {
     bags: [
         { id: 1, name: "Vintage Leather bag", price: 38000, category: "Bags", image: "./assests/men bags/Daily Stylish Sling Messenger.jpeg" },
         { id: 2, name: "leather laptop Bag", price: 25000, category: "Bags", image: "./assests/men bags/download.jpeg" },
-        { id: 3, name: "Sling Backpack", price: 32000, category: "Bags", image: "./assests/men bags/NICGID Sling Bag Chest Shoulder Backpack Crossbody Bags for Men Women.jpeg" },
-        { id: 4, name: "Duflle Leather Side handbag", price: 42000, category: "Bags", image: "./assests/men bags/Sac A Main Femme Pas Cher Ivoire, Petit Sac À Main En Cuir.jpeg" },
-        { id: 5, name: "Modern Laptop Bag", price: 35000, category: "Bags", image: "./assests/men bags/Vagarant Bags _ 16_ Classic Full Leather Briefcase Backpack L02blk _ Color_ Black _ Size_ Os.jpeg" }
+        { id: 3, name: "Sling Backpack", price: 32000, category: "Bags", image: "./assests/men bags/NICGID.jpeg" },
+        { id: 4, name: "Duflle Leather Side handbag", price: 42000, category: "Bags", image: "./assests/men bags/Sac.jpeg" },
+        { id: 5, name: "Modern Laptop Bag", price: 35000, category: "Bags", image: "./assests/men bags/Vagarant.jpeg" }
     ],
     shoes: [
         { id: 6, name: "Black leather double Monk", price: 25000, category: "Shoes", image: "./assests/shoes for men/black leather double monk.jpeg" },
@@ -118,16 +118,16 @@ const productsData = {
         { id: 13, name: "Weekend Travel Bag", price: 28000, category: "Luggage", image: "./assests/travelling bags/download (9).jpeg" }
     ],
     suits: [
-        { id: 14, name: "Black & Teal Abstract Tuxedo", price: 75000, category: "Suits", image: "./assests/men suits/Black & Teal Abstract Tuxedo - 3 Piece 42R Matching Pant.jpeg" },
-        { id: 15, name: "Purple floral Paisley Vest", price: 42000, category: "Suits", image: "./assests/men suits/Mens Silk Victorian Vest Tie Set Paisley Purple _ Color_ Purple_Red _ Size_ Various.jpeg" },
-        { id: 16, name: "Business Suit vest", price: 85000, category: "Suits", image: "./assests/men suits/Herrenweste Classic - Kaffee _ S.jpeg" },
-        { id: 17, name: "Blue Paisley Vest", price: 38000, category: "Suits", image: "./assests/men suits/Conjunto de chaleco elegante azul con diseño paisley.jpeg" }
+        { id: 14, name: "Black & Teal Abstract Tuxedo", price: 75000, category: "Suits", image: "./assests/men suits/Black.jpeg" },
+        { id: 15, name: "Purple floral Paisley Vest", price: 42000, category: "Suits", image: "./assests/men suits/Mens Silk.jpeg" },
+        { id: 16, name: "Business Suit vest", price: 85000, category: "Suits", image: "./assests/men suits/Herrenweste.jpeg" },
+        { id: 17, name: "Blue Paisley Vest", price: 38000, category: "Suits", image: "./assests/men suits/Conjunto.jpeg" }
     ],
     menTops: [
         { id: 18, name: "Gothic Leather Trench Coat", price: 12000, category: "Men's Tops", image: "./assests/cloths for men/Bold Gothic Mens Black Leather Trench Coat.jpeg" },
         { id: 19, name: "Men brown wool coat", price: 15000, category: "Men's Tops", image: "./assests/cloths for men/download (17).jpeg" },
         { id: 20, name: "Wool Pea Coat", price: 18000, category: "Men's Tops", image: "./assests/cloths for men/Herrenmantel.jpeg" },
-        { id: 21, name: "Double collar trench coat", price: 10000, category: "Men's Tops", image: "./assests/cloths for men/Philip - Pardesiu modern cu buzunare pentru bărbați, Maro _ 4XL.jpeg" }
+        { id: 21, name: "Double collar trench coat", price: 10000, category: "Men's Tops", image: "./assests/cloths for men/Philip.jpeg" }
     ],
     femaleShoes: [
         { id: 22, name: "Women Pink Snickers", price: 28000, category: "Female Shoes", image: "./assests/female shoes/pink women snickers.jpeg" },
@@ -138,7 +138,7 @@ const productsData = {
     femaleTops: [
         { id: 26, name: "Neck Ruched Mni dress", price: 18000, category: "Female Tops", image: "./assests/women gown/download (10).jpeg" },
         { id: 27, name: "Bowknow Decorated Hem dress", price: 14000, category: "Female Tops", image: "./assests/women gown/download (11).jpeg" },
-        { id: 28, name: "Whimsical OFf shoulder", price: 22000, category: "Female Tops", image: "./assests/women gown/Witchy Retro Mysterious Star & Moon Print Off Shoulder Bell Sleeve A-Line Dress - Black2 _ XL.jpeg" },
+        { id: 28, name: "Whimsical OFf shoulder", price: 22000, category: "Female Tops", image: "./assests/women gown/Witchy.jpeg" },
         { id: 29, name: "Vintage Polka Dot Halter", price: 8000, category: "Female Tops", image: "./assests/women gown/download (15).jpeg" }
     ],
     femaleBags: [
