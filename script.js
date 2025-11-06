@@ -593,7 +593,7 @@ function sendWhatsApp() {
         return;
     }
 
-    const phoneNumber = '234813420378';
+    const phoneNumber = '234813426378';
     let message = '*New Order from Fashion Store*\n\n';
     
     cart.forEach(item => {
